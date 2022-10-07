@@ -74,11 +74,11 @@
 
 .bannerVideo{
     display:  block;
-    width: 800px;
-    height: 500px;
-    margin-top: 40px;
     margin-left: auto;
     margin-right: auto;
+    height: 560px;
+    width: 800px;
+    margin-top: 40px;
 }
 
 .bibtex{
