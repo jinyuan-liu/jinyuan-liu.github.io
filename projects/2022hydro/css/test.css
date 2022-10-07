@@ -53,6 +53,17 @@
     margin-right: auto;
 }
 
+.acks{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Fanwood Text', serif;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: justify;
+    max-width: 800px;
+}
+
 .bannerImage{
     display:  block;
     margin-left: auto;
@@ -62,10 +73,13 @@
 }
 
 .bibtex{
-    margin-top: 10px;
-    margin-left: 0px;
-    width : 600px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Fanwood Text', serif;
+    max-width : 800px;
     font-size: 15px;
+    text-align: justify;
     white-space: pre-line;
 }
 
